@@ -1,0 +1,14 @@
+{
+  "client_id": "xxx",
+  "client_secret": "xxx",
+  "access_token": "xxx",
+  "watchlist": [
+    "vojay",
+    "bonjwa",
+    "chrisfigge",
+    "artimus83",
+    "dennsen86",
+    "achnina"
+  ],
+  "discord_token": "xxx"
+}
